@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ai_test
 {
-    public partial class Form1 : Form
+    public partial class Form_test : Form
     {
-        public Form1()
+        public Form_test()
         {
             InitializeComponent();
         }
