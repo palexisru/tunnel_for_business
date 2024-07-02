@@ -79,5 +79,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Conscience\" />
+    <Folder Include="Intelligence\" />
+    <Folder Include="Mind\" />
+    <Folder Include="Nature\" />
+    <Folder Include="Tools\" />
+    <Folder Include="Widlife\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

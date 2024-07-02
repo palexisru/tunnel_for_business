@@ -9,3 +9,14 @@ C:\Game\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.Generat
 C:\Game\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.CoreCompileInputs.cache
 C:\Game\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.exe
 C:\Game\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.pdb
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.AssemblyReference.cache
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.SuggestedBindingRedirects.cache
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.Form_test.resources
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.Properties.Resources.resources
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.GenerateResource.cache
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.csproj.CoreCompileInputs.cache
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\bin\Debug\ai_test.exe.config
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\bin\Debug\ai_test.exe
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\bin\Debug\ai_test.pdb
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.exe
+C:\Language\palexisru\tunnel_for_business\v01\ai_test\ai_test\obj\Debug\ai_test.pdb

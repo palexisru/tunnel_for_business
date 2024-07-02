@@ -8,6 +8,7 @@ namespace ai_test
 {
     internal static class Program
     {
+        public static Form f;
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
@@ -16,7 +17,8 @@ namespace ai_test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_test());
+            f = new Form_test();
+            Application.Run(f);
         }
     }
 }
