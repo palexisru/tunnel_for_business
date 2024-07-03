@@ -13,6 +13,7 @@ namespace ai_test.Base
         Probability = 32,
         Analogy = 48,
         Logical = 64,
-        Tuning = 80
+        Tuning = 80,
+        Mask = 112
     }
 }

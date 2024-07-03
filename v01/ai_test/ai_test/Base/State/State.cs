@@ -11,6 +11,7 @@ namespace ai_test.Base
         Unknown = 0,
         Positive = 1,
         Normal = 3,
-        Иadly = 2
+        Badly = 2,
+        Mask = 3
     }
 }
