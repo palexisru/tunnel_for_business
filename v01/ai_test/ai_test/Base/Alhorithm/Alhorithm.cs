@@ -12,7 +12,7 @@ namespace ai_test.Base
         Evolution = 4,
         Probability = 8,
         Analogy = 12,
-        Logical = 8,
+        Logical = 16,
         Tuning = 20,
         Mask = 28
     }
