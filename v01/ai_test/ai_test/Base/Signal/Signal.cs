@@ -9,9 +9,9 @@ namespace ai_test.Base
     public enum Signal
     {
         Rise = 0,
-        Signal = 4,
-        Vanish = 8,
-        Silence = 12,
-        Mask = 12
+        Signal = 1,
+        Vanish = 2,
+        Silence = 3,
+        Mask = 3
     }
 }

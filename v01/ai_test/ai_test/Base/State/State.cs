@@ -9,9 +9,9 @@ namespace ai_test.Base
     public enum State
     {
         Unknown = 0,
-        Positive = 1,
-        Normal = 3,
-        Badly = 2,
-        Mask = 3
+        Positive = 32,
+        Normal = 96,
+        Badly = 64,
+        Mask = 96
     }
 }

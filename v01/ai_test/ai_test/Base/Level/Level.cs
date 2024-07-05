@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace ai_test.Base
 {
-    public enum Alhorithm
+    public enum Level
     {
         None = 0,
-        Evolution = 4,
-        Probability = 8,
-        Analogy = 12,
-        Logical = 8,
-        Tuning = 20,
-        Mask = 28
+        Nature = 32,
+        Wild = 64,
+        Real = 96,
+        Mask = 96
     }
 }

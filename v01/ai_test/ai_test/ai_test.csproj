@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Base\Abstraction\Abstraction.cs" />
     <Compile Include="Base\Alhorithm\Alhorithm.cs" />
+    <Compile Include="Base\Level\Level.cs" />
     <Compile Include="Base\Signal\Signal.cs" />
     <Compile Include="Base\State\State.cs" />
     <Compile Include="Form_test.cs">
