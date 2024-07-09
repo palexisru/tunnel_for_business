@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Bible",
+    "\\Bible\\Genesis",
     "\\v01",
     "\\v01\\ai_test",
     "\\v01\\ai_test\\ai_test",
     "\\v01\\ai_test\\ai_test\\Base",
-    "\\v01\\ai_test\\ai_test\\Base\\Abstraction",
     "\\v01\\ai_test\\ai_test\\Base\\Alhorithm",
     "\\v01\\ai_test\\ai_test\\Base\\Signal",
-    "\\v01\\ai_test\\ai_test\\Base\\State",
-    "\\v01\\ai_test\\ai_test\\bin"
+    "\\v01\\ai_test\\ai_test\\Base\\State"
   ],
-  "SelectedNode": "\\v01\\ai_test\\ai_test\\Base\\Alhorithm\\Alhorithm.cs",
+  "SelectedNode": "\\v01\\ai_test\\ai_test\\Base\\Signal\\Signal.cs",
   "PreviewInSolutionExplorer": false
 }
