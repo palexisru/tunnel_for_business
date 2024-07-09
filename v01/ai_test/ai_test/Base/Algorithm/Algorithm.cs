@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ai_test.Base
 {
-    public enum Alhorithm
+    public enum Algorithm
     {
         None = 0,
         Evolution = 4,
