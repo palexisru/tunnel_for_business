@@ -7,10 +7,9 @@
     "\\v01\\ai_test",
     "\\v01\\ai_test\\ai_test",
     "\\v01\\ai_test\\ai_test\\Base",
-    "\\v01\\ai_test\\ai_test\\Base\\Alhorithm",
     "\\v01\\ai_test\\ai_test\\Base\\Signal",
     "\\v01\\ai_test\\ai_test\\Base\\State"
   ],
-  "SelectedNode": "\\v01\\ai_test\\ai_test\\Program.cs",
+  "SelectedNode": "\\v01\\ai_test\\ai_test.sln",
   "PreviewInSolutionExplorer": false
 }

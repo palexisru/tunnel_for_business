@@ -11,12 +11,12 @@ namespace ai_test.Base
     {
         private short val; 
         public Vertical_scale(Abstraction ab, Level lv, Algorithm al, Signal s) {
-            val = 0;
-            val += (short) lv;
-            val += (short) al;
+            val = (short)(((short) ab) >> 7 + ((short) lv) >> 5);
+            val = (short)(val * 5 + ((short) al) >> 2);
             val += (short) s;
-            if (ab == Abstraction.Subtract)
+            if (ab == Abstraction.Substrate)
                 val = (short)-val;
         }
+        public short value { get { return val; } }
     }
 }

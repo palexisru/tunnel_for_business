@@ -8,7 +8,7 @@ namespace ai_test.Base
 {
     public enum Abstraction
     {
-        Subtract = 0,
+        Substrate = 0,
         Abstruct = 128,
         Mask = 128
     }
